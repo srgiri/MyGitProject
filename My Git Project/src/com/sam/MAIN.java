@@ -8,6 +8,7 @@ public class MAIN {
 		System.out.println("Second Modification");
 		System.out.println("Modification under testOne branch");
 		System.out.println("Unknow of the modification in the github browser.");
+		System.out.println("Edited in the github browser.");
 	}
 
 }
